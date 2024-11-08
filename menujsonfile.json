@@ -1,0 +1,239 @@
+{
+  "menu": [
+    {
+      "category": "Italian",
+      "items": [
+        {
+          "name": "Margherita Pizza",
+          "description": "Classic pizza with tomato, mozzarella, and fresh basil.",
+          "price": 399,
+          "availability": true
+        },
+        {
+          "name": "Spaghetti Carbonara",
+          "description": "Pasta with creamy egg sauce, pancetta, and Parmesan.",
+          "price": 550,
+          "availability": true
+        },
+        {
+          "name": "Lasagna",
+          "description": "Layered pasta with meat sauce, ricotta, and mozzarella.",
+          "price": 600,
+          "availability": true
+        },
+        {
+          "name": "Risotto alla Milanese",
+          "description": "Saffron-flavored risotto with Parmesan cheese.",
+          "price": 450,
+          "availability": true
+        },
+        {
+          "name": "Bruschetta",
+          "description": "Grilled bread with tomatoes, basil, and olive oil.",
+          "price": 250,
+          "availability": true
+        },
+        {
+          "name": "Fettuccine Alfredo",
+          "description": "Creamy pasta with Parmesan and butter.",
+          "price": 500,
+          "availability": true
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Coffee-flavored Italian dessert.",
+          "price": 300,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "category": "Mexican",
+      "items": [
+        {
+          "name": "Tacos Al Pastor",
+          "description": "Corn tortillas filled with marinated pork, topped with pineapple.",
+          "price": 150,
+          "availability": true
+        },
+        {
+          "name": "Quesadilla",
+          "description": "Grilled tortilla with melted cheese and veggies.",
+          "price": 200,
+          "availability": true
+        },
+        {
+          "name": "Burrito",
+          "description": "Stuffed tortilla with rice, beans, cheese, and meat.",
+          "price": 250,
+          "availability": true
+        },
+        {
+          "name": "Nachos",
+          "description": "Tortilla chips topped with cheese, beans, and jalapenos.",
+          "price": 180,
+          "availability": true
+        },
+        {
+          "name": "Enchiladas",
+          "description": "Corn tortillas with filling, topped with chili sauce and cheese.",
+          "price": 280,
+          "availability": true
+        },
+        {
+          "name": "Churros",
+          "description": "Fried dough pastry dusted with cinnamon sugar.",
+          "price": 120,
+          "availability": true
+        },
+        {
+          "name": "Guacamole",
+          "description": "Classic avocado dip with lime, cilantro, and tomato.",
+          "price": 150,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "category": "Indian",
+      "items": [
+        {
+          "name": "Chicken Biryani",
+          "description": "Spiced rice dish with marinated chicken, served with raita.",
+          "price": 300,
+          "availability": true
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "description": "Creamy tomato-based curry with paneer cubes.",
+          "price": 220,
+          "availability": true
+        },
+        {
+          "name": "Dal Makhani",
+          "description": "Slow-cooked black lentils with cream and spices.",
+          "price": 180,
+          "availability": true
+        },
+        {
+          "name": "Rogan Josh",
+          "description": "Aromatic lamb curry with Kashmiri spices.",
+          "price": 350,
+          "availability": true
+        },
+        {
+          "name": "Butter Naan",
+          "description": "Soft, buttery Indian flatbread.",
+          "price": 50,
+          "availability": true
+        },
+        {
+          "name": "Samosa",
+          "description": "Crispy pastry filled with spiced potatoes and peas.",
+          "price": 30,
+          "availability": true
+        },
+        {
+          "name": "Gulab Jamun",
+          "description": "Sweet milk-solid balls soaked in syrup.",
+          "price": 40,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "category": "Japanese",
+      "items": [
+        {
+          "name": "Sushi Platter",
+          "description": "Assorted sushi with fresh fish and rice.",
+          "price": 700,
+          "availability": true
+        },
+        {
+          "name": "Ramen",
+          "description": "Japanese noodle soup with broth, pork, and vegetables.",
+          "price": 450,
+          "availability": true
+        },
+        {
+          "name": "Tempura",
+          "description": "Crispy battered and fried seafood or vegetables.",
+          "price": 300,
+          "availability": true
+        },
+        {
+          "name": "Teriyaki Chicken",
+          "description": "Grilled chicken glazed with teriyaki sauce.",
+          "price": 350,
+          "availability": true
+        },
+        {
+          "name": "Miso Soup",
+          "description": "Traditional Japanese soup with tofu, seaweed, and green onions.",
+          "price": 120,
+          "availability": true
+        },
+        {
+          "name": "Edamame",
+          "description": "Boiled soybeans seasoned with salt.",
+          "price": 100,
+          "availability": true
+        },
+        {
+          "name": "Mochi Ice Cream",
+          "description": "Japanese rice cake with ice cream filling.",
+          "price": 200,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "category": "American",
+      "items": [
+        {
+          "name": "Cheeseburger",
+          "description": "Beef burger with cheese, lettuce, tomato, and pickles.",
+          "price": 250,
+          "availability": true
+        },
+        {
+          "name": "Buffalo Wings",
+          "description": "Spicy chicken wings with a side of blue cheese dip.",
+          "price": 200,
+          "availability": true
+        },
+        {
+          "name": "Mac and Cheese",
+          "description": "Creamy pasta with cheddar cheese sauce.",
+          "price": 180,
+          "availability": true
+        },
+        {
+          "name": "Caesar Salad",
+          "description": "Salad with romaine lettuce, croutons, and Caesar dressing.",
+          "price": 150,
+          "availability": true
+        },
+        {
+          "name": "French Fries",
+          "description": "Crispy golden fries.",
+          "price": 80,
+          "availability": true
+        },
+        {
+          "name": "Apple Pie",
+          "description": "Classic American dessert with cinnamon-flavored apples.",
+          "price": 120,
+          "availability": true
+        },
+        {
+          "name": "Milkshake",
+          "description": "Creamy milkshake with vanilla, chocolate, or strawberry flavor.",
+          "price": 150,
+          "availability": true
+        }
+      ]
+    }
+  ]
+}
